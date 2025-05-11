@@ -22,6 +22,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 15. **Walking with the Comrades (2011)** by Arundhati Roy
 16. **Caste, Occupation and Politics on the Ganges: Passages of Resistance (2017)** by Assa Doron
 17. **The Trial (1925)** by Franz Kafka
+18. **The Story of Israel (2020)** by Martin Gilbert
 
 ### Essays:
 1. **Books v/s Cigarettes (1946)** by George Orwell
@@ -69,6 +70,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 44. **Anatomy of a Fall (2023)** dir. by Justine Triet
 45. **A Complete Unknown (2025)** dir. by James Mangold
 46. **The Mehta Boys (2025)** dir. by Boman Irani
+47. **Léon (1994)** dir. by Luc Besson
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -96,3 +98,6 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 4.  **Rick and Morty (2013-ongoing)** creators Justin Roiland, Dan Harmon *
 5.  **Inside Out (2015)** dir. by Pete Docter, Ronnie del Carmen
 6.  **Sakamoto Days (2025)** dir. by Yuto Suzuki
+7.  **Hercules (1997)** dir. by Ron Clements, John Musker
+8.  **The Road to El Dorado (2000)** dir. by Bibo Bergeron, Jeffrey Katzenberg, Don Paul
+9.  **#1 Happy Family USA (2025)** dir. Ramy Youssef
