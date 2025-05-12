@@ -101,3 +101,6 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 7.  **Hercules (1997)** dir. by Ron Clements, John Musker
 8.  **The Road to El Dorado (2000)** dir. by Bibo Bergeron, Jeffrey Katzenberg, Don Paul
 9.  **#1 Happy Family USA (2025)** dir. Ramy Youssef
+
+Before mathematics took center stage - I worked as a freelance photographer, videographer, and designer in Mumbai from 2017-2022. Here's a glimpse at some of that work.
+![]("https://github.com/kanak-sudo/kanak-sudo.github.io/blob/master/images/Frame%201.png")
