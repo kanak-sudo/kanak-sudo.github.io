@@ -71,6 +71,8 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 45. **A Complete Unknown (2025)** dir. by James Mangold
 46. **The Mehta Boys (2025)** dir. by Boman Irani
 47. **Léon (1994)** dir. by Luc Besson
+48. **The Life of Chuck (2025)** dir. by Mike Flanagan
+49. **Kindergarten Cop (1990)** dir. by Ivan Reitman
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
