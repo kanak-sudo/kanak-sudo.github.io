@@ -73,6 +73,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 47. **American History X (1998)** dir. by Tony Kaye
 48. **The Life of Chuck (2025)** dir. by Mike Flanagan
 49. **Kindergarten Cop (1990)** dir. by Ivan Reitman
+50. **Weapons (2025)** dir. by Zach Cregger
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -92,6 +93,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 15. **Beef (2023)** dir. by Lee Sung Jin
 16. **The Hunt for Veerappan (2023)** dir. by Selvamani Selvaraj
 17. **Adolescence (2025)** dir. by Jack Thorne, Stephen Graham
+18. **Breaking4 (2025)** dir. by Suemay Oram
 
 ### Anime/Animation/Other:
 1.  **Grave of the Fireflies (1988)** dir. by Isao Takahata *
@@ -103,3 +105,4 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 7.  **Hercules (1997)** dir. by Ron Clements, John Musker
 8.  **The Road to El Dorado (2000)** dir. by Bibo Bergeron, Jeffrey Katzenberg, Don Paul
 9.  **#1 Happy Family USA (2025)** dir. Ramy Youssef
+10. **Haikyuu!** dir. by Susumu Mitsunaka, Masako Satō
