@@ -23,6 +23,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 16. **Caste, Occupation and Politics on the Ganges: Passages of Resistance (2017)** by Assa Doron
 17. **The Trial (1925)** by Franz Kafka
 18. **The Story of Israel (2020)** by Martin Gilbert
+19. **Measure for Measure (1603)** by William Shakespeare ( fun remark: read this while preparing for my qualifier exam on Measure Theory :) )
 
 ### Essays:
 1. **Books v/s Cigarettes (1946)** by George Orwell
