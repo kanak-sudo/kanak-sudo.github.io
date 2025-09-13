@@ -75,6 +75,8 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 48. **The Life of Chuck (2025)** dir. by Mike Flanagan
 49. **Kindergarten Cop (1990)** dir. by Ivan Reitman
 50. **Weapons (2025)** dir. by Zach Cregger
+51. **Yesterday (2019)** dir. by Danny Boyle *
+52. **Pratidwandi (1970)** dir. by Satyajit Ray
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
