@@ -4,7 +4,7 @@ title: "Movies+Books"
 ---
 The plan here is to keep track of the books I've enjoyed reading and the movies/series/anime I've enjoyed watching since August 2023. Re-reads and re-watches are marked with an asterisk.
 
-### Books:
+### Non-Math Books:
 1.  **The Metamorphosis (1915)** by Franz Kafka
 2.  **The Stranger (1942)** by Albert Camus
 3.  **The Idiot (1869)** by Fyodor Dostoevsky
@@ -24,6 +24,26 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 17. **The Trial (1925)** by Franz Kafka
 18. **The Story of Israel (2020)** by Martin Gilbert
 19. **Measure for Measure (1603)** by William Shakespeare ( fun remark: read this while preparing for my qualifier exam on Measure Theory :) )
+
+### Math Books (An incomplete list):
+Books I’ve read cover-to-cover are marked with !. Books I’ve only skimmed or referred to are marked with *. For all other cases, the specific chapters I’ve read are listed.
+
+1. **Abstract Algebra** by Marco Hien (!)
+2. **Introduction to Lie Algebras** by Erdmann and Wildon (Chapters 1-12 including exercises)
+3. **Introduction to Lie Algebras and Representation Theory** by Humphreys (Chapter 1 and 2, including exercises)
+4. **Topology: A Categorical Approach** by Terilla, Bradley, and Bryson (*)
+5. **Measure Integration and Real Analysis** by Sheldon Axler (Chapters 1-3 including exercises)
+6. **Topology** by Munkres (Chapters 1-3, 9, 11 including exercises)
+7. **An Introduction to q-Analysis** by Warren Johnson (Chapters 1-4, including select exercises. [My notes and solutions to said exercises are here]())
+8. **Integer Partitions** by Andrews and Eriksson (!)
+9. **Abstract Algebra** by Dummit and Foote (Part II and IV, including exercises)
+10. **Dynamics in One Complex Variable** by John Milnor (Read Chapters 1-3)
+11. **Pathway to Complex Analysis** by S. Kumaresan (Cover-to-cover but a very very long time ago!) 
+
+(Math)-books I'm currently reading.
+
+1. **A Course in Arithmetic** by Serre.
+2. **Algebraic Number Theory** by Neukirch.
 
 ### Essays:
 1. **Books v/s Cigarettes (1946)** by George Orwell
