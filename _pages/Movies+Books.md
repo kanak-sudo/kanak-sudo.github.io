@@ -24,26 +24,21 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 17. **The Trial (1925)** by Franz Kafka
 18. **The Story of Israel (2020)** by Martin Gilbert
 19. **Measure for Measure (1603)** by William Shakespeare ( fun remark: read this while preparing for my qualifier exam on Measure Theory :) )
+20. **Masala Lab: The Science of Indian Cooking (2020)** by Krish Ashok
 
 ### Math Books (An incomplete list):
-Books I’ve read cover-to-cover are marked with !. Books I’ve only skimmed or referred to are marked with *. For all other cases, the specific chapters I’ve read are listed.
+This is by no means an exhaustive list, but rather a collection of math books that are **not** typically included as recommended readings in standard math courses in India.
 
-1. **Abstract Algebra** by Marco Hien (!)
-2. **Introduction to Lie Algebras** by Erdmann and Wildon (Chapters 1-12 including exercises)
-3. **Introduction to Lie Algebras and Representation Theory** by Humphreys (Chapter 1 and 2, including exercises)
-4. **Topology: A Categorical Approach** by Terilla, Bradley, and Bryson (*)
-5. **Measure Integration and Real Analysis** by Sheldon Axler (Chapters 1-3 including exercises)
-6. **Topology** by Munkres (Chapters 1-3, 9, 11 including exercises)
-7. **An Introduction to q-Analysis** by Warren Johnson (Chapters 1-4, including select exercises. [My notes and solutions to said exercises are here]())
-8. **Integer Partitions** by Andrews and Eriksson (!)
-9. **Abstract Algebra** by Dummit and Foote (Part II and IV, including exercises)
-10. **Dynamics in One Complex Variable** by John Milnor (Read Chapters 1-3)
-11. **Pathway to Complex Analysis** by S. Kumaresan (Cover-to-cover but a very very long time ago!) 
+1. **Abstract Algebra** by Marco Hien (Having read this book cover to cover, I prefer it over many of the standard books for a first/second course in Algebra.)
+2. **Introduction to Lie Algebras** by Erdmann and Wildon (The first 12 chapters cover much of what Humphreys covers in the first two chapters of his book without being unnecessarily terse.)
+3. **Topology: A Categorical Approach** by Terilla, Bradley, and Bryson (I've only referred to some parts of the book for my Topology qualifer. Not a replacement for Munkres' and/or Hatcher's texts but a good read nonetheless.)
+4. **Measure Integration and Real Analysis** by Sheldon Axler (I'm not sure if this one really is non-standard, but I much prefer it over, say, Papa Rudin.)
+5. **An Introduction to q-Analysis** by Warren Johnson (Worked through chapters 1-4, including select exercises. [My notes and solutions to said exercises are here]())
 
 (Math)-books I'm currently reading.
-
 1. **A Course in Arithmetic** by Serre.
 2. **Algebraic Number Theory** by Neukirch.
+3. **Eliptic Curves, Modular Forms, and Their L-functions** by Alvaro Lozano-Robledo.
 
 ### Essays:
 1. **Books v/s Cigarettes (1946)** by George Orwell
