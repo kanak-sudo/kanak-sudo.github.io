@@ -25,6 +25,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 18. **The Story of Israel (2020)** by Martin Gilbert
 19. **Measure for Measure (1603)** by William Shakespeare ( fun remark: read this while preparing for my qualifier exam on Measure Theory :) )
 20. **Masala Lab: The Science of Indian Cooking (2020)** by Krish Ashok
+21. **Bombay Stories** by Saadat Hasan Manto (translated by Matt Reeck and Aftab Ahmad)
 
 ### Math Books (An incomplete list):
 This is by no means an exhaustive list, but rather a collection of math books that are **not** typically included as recommended readings in standard math courses in India.
@@ -34,11 +35,6 @@ This is by no means an exhaustive list, but rather a collection of math books th
 3. **Topology: A Categorical Approach** by Terilla, Bradley, and Bryson (I've only referred to some parts of the book for my Topology qualifer. Not a replacement for Munkres' and/or Hatcher's texts but a good read nonetheless.)
 4. **Measure Integration and Real Analysis** by Sheldon Axler (I'm not sure if this one really is non-standard, but I much prefer it over, say, Papa Rudin.)
 5. **An Introduction to q-Analysis** by Warren Johnson (Worked through chapters 1-4, including select exercises. [My notes and solutions to said exercises are here]())
-
-(Math)-books I'm currently reading.
-1. **A Course in Arithmetic** by Serre.
-2. **Algebraic Number Theory** by Neukirch.
-3. **Eliptic Curves, Modular Forms, and Their L-functions** by Alvaro Lozano-Robledo.
 
 ### Essays:
 1. **Books v/s Cigarettes (1946)** by George Orwell
@@ -92,6 +88,7 @@ This is by no means an exhaustive list, but rather a collection of math books th
 50. **Weapons (2025)** dir. by Zach Cregger
 51. **Yesterday (2019)** dir. by Danny Boyle *
 52. **Pratidwandi (1970)** dir. by Satyajit Ray
+53. **Frankenstein (2025)** dir. by Guillermo del Toro
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -124,3 +121,4 @@ This is by no means an exhaustive list, but rather a collection of math books th
 8.  **The Road to El Dorado (2000)** dir. by Bibo Bergeron, Jeffrey Katzenberg, Don Paul
 9.  **#1 Happy Family USA (2025)** dir. Ramy Youssef
 10. **Haikyuu!** dir. by Susumu Mitsunaka, Masako Satō
+11. **Kotaro Lives Alone** dir. by Tomoe Makino
