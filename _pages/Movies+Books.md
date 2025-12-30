@@ -89,6 +89,10 @@ This is by no means an exhaustive list, but rather a collection of math books th
 51. **Yesterday (2019)** dir. by Danny Boyle *
 52. **Pratidwandi (1970)** dir. by Satyajit Ray
 53. **Frankenstein (2025)** dir. by Guillermo del Toro
+54. **Wake Up Dead Man: A Knives Out Mystery (2025)** dir by Rian Johnson
+55. **The Great Flood (2025)** dir. by Kim Byung-woo
+56. **Monster (2023)** dir, by Hirokazu Koreeda
+57. **Wall To Wall (2025)** dir. by Kim Tae-joon
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -109,6 +113,7 @@ This is by no means an exhaustive list, but rather a collection of math books th
 16. **The Hunt for Veerappan (2023)** dir. by Selvamani Selvaraj
 17. **Adolescence (2025)** dir. by Jack Thorne, Stephen Graham
 18. **Breaking4 (2025)** dir. by Suemay Oram
+19. **Midnight Diner** dir. by Joji Matsuoka (and others)
 
 ### Anime/Animation/Other:
 1.  **Grave of the Fireflies (1988)** dir. by Isao Takahata *
