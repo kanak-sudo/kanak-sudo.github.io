@@ -26,6 +26,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 19. **Measure for Measure (1603)** by William Shakespeare ( fun remark: read this while preparing for my qualifier exam on Measure Theory :) )
 20. **Masala Lab: The Science of Indian Cooking (2020)** by Krish Ashok
 21. **Bombay Stories** by Saadat Hasan Manto (translated by Matt Reeck and Aftab Ahmad)
+22. **Mother Mary Comes to Me (2025)** by Arundhati Roy
 
 ### Math Books (An incomplete list):
 This is by no means an exhaustive list, but rather a collection of math books that are **not** typically included as recommended readings in standard math courses in India.
@@ -36,9 +37,11 @@ This is by no means an exhaustive list, but rather a collection of math books th
 4. **Measure Integration and Real Analysis** by Sheldon Axler (I'm not sure if this one really is non-standard, but I much prefer it over, say, Papa Rudin.)
 5. **An Introduction to q-Analysis** by Warren Johnson (Worked through chapters 1-4, including select exercises. [My notes and solutions to said exercises are here]())
 
-### Essays:
+### Essays and Short Stories:
 1. **Books v/s Cigarettes (1946)** by George Orwell
 2. **Politics and the English Language (1946)** by George Orwell
+3. **The Great Wall of China (1930)** by Franz Kafka
+4. **A Report to an Academy (1917)** by Franz Kafka
 
 ### Movies:
 1.  **Awakenings (1990)** dir. by Penny Marshall *
@@ -93,6 +96,8 @@ This is by no means an exhaustive list, but rather a collection of math books th
 55. **The Great Flood (2025)** dir. by Kim Byung-woo
 56. **Monster (2023)** dir, by Hirokazu Koreeda
 57. **Wall To Wall (2025)** dir. by Kim Tae-joon
+58. **Bugonia (2025)** dir. by Yorgos Lanthimos
+59. **Munich (2005)** dir. by Steven Spielberg
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
