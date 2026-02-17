@@ -27,6 +27,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 20. **Masala Lab: The Science of Indian Cooking (2020)** by Krish Ashok
 21. **Bombay Stories** by Saadat Hasan Manto (translated by Matt Reeck and Aftab Ahmad)
 22. **Mother Mary Comes to Me (2025)** by Arundhati Roy
+23. **Tuesdays With Morrie** by Mitch Albom
 
 ### Math Books (An incomplete list):
 This is by no means an exhaustive list, but rather a collection of math books that are **not** typically included as recommended readings in standard math courses in India.
@@ -98,6 +99,8 @@ This is by no means an exhaustive list, but rather a collection of math books th
 57. **Wall To Wall (2025)** dir. by Kim Tae-joon
 58. **Bugonia (2025)** dir. by Yorgos Lanthimos
 59. **Munich (2005)** dir. by Steven Spielberg
+60. **Nanpakal Nerathu Mayakkam (2022)** dir. by Lijo Jose Pellissery
+61. **Captain Fantastic (2016)** dir. by Matt Ross
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -119,6 +122,7 @@ This is by no means an exhaustive list, but rather a collection of math books th
 17. **Adolescence (2025)** dir. by Jack Thorne, Stephen Graham
 18. **Breaking4 (2025)** dir. by Suemay Oram
 19. **Midnight Diner** dir. by Joji Matsuoka (and others)
+20. **Crashing (2016)** dir. by Phoebe Waller-Bridge
 
 ### Anime/Animation/Other:
 1.  **Grave of the Fireflies (1988)** dir. by Isao Takahata *
