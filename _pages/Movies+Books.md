@@ -101,6 +101,7 @@ This is by no means an exhaustive list, but rather a collection of math books th
 59. **Munich (2005)** dir. by Steven Spielberg
 60. **Nanpakal Nerathu Mayakkam (2022)** dir. by Lijo Jose Pellissery
 61. **Captain Fantastic (2016)** dir. by Matt Ross
+62. **Nuremberg (2025)** dir by. James Vanderbilt
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
