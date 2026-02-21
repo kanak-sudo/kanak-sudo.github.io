@@ -102,6 +102,7 @@ This is by no means an exhaustive list, but rather a collection of math books th
 60. **Nanpakal Nerathu Mayakkam (2022)** dir. by Lijo Jose Pellissery
 61. **Captain Fantastic (2016)** dir. by Matt Ross
 62. **Nuremberg (2025)** dir by. James Vanderbilt
+63. **Oldboy (2003)** dir. by Park Chan-wook ( remark: a deeply disturbing watch )
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
