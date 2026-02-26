@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kanak, and I am a third-year PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University. Broadly (and eventually), I plan to work in the theory of modular forms. Here’s a brief overview of my academic and professional journey so far:
+My name is Kanak, and I am a third-year PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University. My research interest is broadly in the area of automorphic forms. More specifically, I am interested in examining Eisenstein series on symplectic groups of low rank, with emphasis on Siegel and Klingen Eisenstein series, their Fourier expansions, pullback constructions, and associated automorphic representations. I'm currently working under the supervision of [Dr. Alok Shukla](https://ahduni.edu.in/faculty/alok-shukla/). Here’s a brief overview of my academic and professional journey so far:
 
 * Jan 2024 - Present: **PhD in Mathematics and Computational Sciences**, [Ahmedabad University](https://www.ahduni.edu.in), Ahmedabad.
 * Jan 2023 - Aug 2023: **Full-Stack Developer, & Designer**, [99x Studio](https://www.99xstudio.com/), Bangalore.
