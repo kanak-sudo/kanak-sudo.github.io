@@ -28,6 +28,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 21. **Bombay Stories** by Saadat Hasan Manto (translated by Matt Reeck and Aftab Ahmad)
 22. **Mother Mary Comes to Me (2025)** by Arundhati Roy
 23. **Tuesdays With Morrie** by Mitch Albom
+24. **One Part Woman** by Perumal Murugan
 
 ### Math Books (An incomplete list):
 This is by no means an exhaustive list, but rather a collection of math books that are **not** typically included as recommended readings in standard math courses in India.
