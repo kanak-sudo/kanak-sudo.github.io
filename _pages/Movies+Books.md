@@ -105,6 +105,8 @@ This is by no means an exhaustive list, but rather a collection of math books th
 62. **Nuremberg (2025)** dir by. James Vanderbilt
 63. **Oldboy (2003)** dir. by Park Chan-wook ( remark: a deeply disturbing watch )
 64. **Hamnet (2025)** dir. Chloé Zhao
+65. **Project Hail Mary (2026)** dir. by Phil Lord, Chris Miller
+66. **The Drama (2026)** dir. by Kristoffer Borgli
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -140,3 +142,4 @@ This is by no means an exhaustive list, but rather a collection of math books th
 9.  **#1 Happy Family USA (2025)** dir. Ramy Youssef
 10. **Haikyuu!** dir. by Susumu Mitsunaka, Masako Satō
 11. **Kotaro Lives Alone** dir. by Tomoe Makino
+12. **Vinland Saga** dir. by Shūhei Yabuta
