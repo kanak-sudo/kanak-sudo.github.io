@@ -129,6 +129,7 @@ This is by no means an exhaustive list, but rather a collection of math books th
 18. **Breaking4 (2025)** dir. by Suemay Oram
 19. **Midnight Diner** dir. by Joji Matsuoka (and others)
 20. **Crashing (2016)** dir. by Phoebe Waller-Bridge
+21. **Rooster (2026)** dir. by Bill Lawrence and Matt Tarses
 
 ### Anime/Animation/Other:
 1.  **Grave of the Fireflies (1988)** dir. by Isao Takahata *
