@@ -29,6 +29,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 22. **Mother Mary Comes to Me (2025)** by Arundhati Roy
 23. **Tuesdays With Morrie** by Mitch Albom
 24. **One Part Woman** by Perumal Murugan
+25. **Tales From Firozsha Baag (1987)** by Rohinton Mistry
 
 ### Math Books (An incomplete list):
 This is by no means an exhaustive list, but rather a collection of math books that are **not** typically included as recommended readings in standard math courses in India.
