@@ -32,6 +32,8 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 25. **Tales From Firozsha Baag (1987)** by Rohinton Mistry
 26. **The Vegetarian (2007)** by Han Kang
 27. **The Meek One (1876)** by Fyodor Dostoevsky
+28. **Bullshit Jobs (2018)** by David Graeber
+29. **The Utopia of Rules (2015)** by David Graeber
   
 ### Math Books (An incomplete list):
 This is by no means an exhaustive list, but rather a collection of math books that are **not** typically included as recommended readings in standard math courses in India.
@@ -111,6 +113,8 @@ This is by no means an exhaustive list, but rather a collection of math books th
 65. **Project Hail Mary (2026)** dir. by Phil Lord, Chris Miller
 66. **The Drama (2026)** dir. by Kristoffer Borgli
 67. **The Sheep Detectives (2026)** dir. by Kyle Balda
+68. **Obsession (2026)** dir. by Curry Barker
+69. **The Book of Henry (2017)** dir. by Colin Trevorrow
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -148,4 +152,5 @@ This is by no means an exhaustive list, but rather a collection of math books th
 10. **Haikyuu!** dir. by Susumu Mitsunaka, Masako Satō
 11. **Kotaro Lives Alone** dir. by Tomoe Makino
 12. **Vinland Saga** dir. by Shūhei Yabuta
-13. **Hajime no Ippo**
+13. **Hajime no Ippo (2000)** dir. by Satoshi Nishimura
+14. **Smoking Behind The Supermarket With You (2026)** dir. by Masato Suzuki and Aoi Mori
