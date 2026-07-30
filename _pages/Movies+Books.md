@@ -115,6 +115,8 @@ This is by no means an exhaustive list, but rather a collection of math books th
 67. **The Sheep Detectives (2026)** dir. by Kyle Balda
 68. **Obsession (2026)** dir. by Curry Barker
 69. **The Book of Henry (2017)** dir. by Colin Trevorrow
+70. **The Roses (2025)** dir. by Jay Roach
+71. **Argo (2012)** dir. by Ben Affleck
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
